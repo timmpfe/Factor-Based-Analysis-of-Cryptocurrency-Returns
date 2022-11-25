@@ -1,2 +1,1 @@
-# Master-Thesis
-Factor Analysis of Cryptocurrency Returns
+# Factor Based Analysis of Cryptocurrency Returns
